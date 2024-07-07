@@ -1,0 +1,6 @@
+pandas==2.1.4
+numpy==1.26.4
+jax==0.4.28
+equinox==0.11.4
+optax==0.2.2
+matplotlib==3.8.0
